@@ -6,9 +6,7 @@ api: 4.0.0
 authors:
 - Mcbeany
 - AIPTU
-depend:
-- EconomyAPI
-- SellAll
+src-namespace-prefix: Mcbeany\BetterMinion
 
 permissions:
   betterminion.command:
