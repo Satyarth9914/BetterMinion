@@ -2,7 +2,7 @@
 name: BetterMinion
 main: Mcbeany\BetterMinion\BetterMinion
 version: 1.0.0
-api: 3.21.0
+api: 4.5.1
 authors:
 - Mcbeany
 - AIPTU
